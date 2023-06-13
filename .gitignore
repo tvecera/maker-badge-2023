@@ -1,0 +1,6 @@
+cmake-build-*
+CMakeListsPrivate.txt
+.pio
+.vscode
+src/bitmaps_original.h
+

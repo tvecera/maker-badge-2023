@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:John;Doe;;;
+FN:John Doe
+ORG:Example Company
+EMAIL;TYPE=work:john.doe@example.com
+TEL;TYPE=work:+420123456789
+URL;type=work:https://example.com
+END:VCARD
